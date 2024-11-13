@@ -18,6 +18,5 @@ Kliendi programmi kasutamiseks tuleb käivitada kood ja sisestada käsureale kak
 Serveri programmi käivitamiseks küsitakse porti mille peal kuulatakse ja serveri ipd, sest hetkel pole meil static ip.
  Kui programm käib oodatakse terve aeg ühendusi selle port numbri peal. Kui tekib uus ühendus antakse sellest teada
 
-## Support
 ## loodud 2022
 @markni @korgus @janlep
